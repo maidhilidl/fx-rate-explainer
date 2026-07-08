@@ -2,7 +2,7 @@
 
 A tiny tool that answers: "how has currency A moved against currency B recently?" — in plain language, using live public data.
 
-**Live demo:** [add your deployed Streamlit URL here]
+**Live demo:** https://fx-rate-explainer-yczrshht84tprbvqmclevc.streamlit.app/
 
 ## What it does
 Type two currency codes (e.g. USD, INR). The tool fetches today's real exchange rate and the rate from N days ago (default 30) from the [Frankfurter API](https://frankfurter.dev) — a free, no-key public API aggregating rates from the European Central Bank and other central banks — then computes the % change and explains the trend in one sentence.
