@@ -8,4 +8,4 @@
 | Frankfurter supports fetching a rate for any specific past date, not just the current day | https://api.frankfurter.dev/v1/ (docs) | API documentation | The docs show a dated endpoint pattern (e.g. `/v1/1999-01-04`) for historical lookups |
 | Rates returned for "today" may still update intraday as new data is published | https://frankfurter.dev | API documentation | The docs note that same-day rates are not final and can shift as new figures arrive |
 
-**Note on scope:** the exchange rate figures the tool displays at runtime (e.g. "1 USD = 108.98 INR") are live computed outputs of the API call itself, not authored claims — they change every time the tool is run and are sourced live, in real time, from the API listed above.
+**Note on scope:** the exchange rate figures the tool displays at runtime (e.g. "1 USD = 108.98 INR") are live computed outputs of the API call itself, not authored claims. They change every time the tool is run and are sourced live, in real time, from the API listed above.
