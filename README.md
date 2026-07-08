@@ -13,7 +13,7 @@ If an invalid currency code is entered, the tool fails gracefully with a clear m
 ## How it's built
 
 - `fx_logic.py` — core logic: the two API lookups, the percentage-change computation, and the trend interpretation
-- `app.py` — the Streamlit front-end
+- `app(1).py` — the Streamlit front-end
 - `requirements.txt` — dependencies
 - `CITATION_LEDGER.md` — every factual claim made in this project's documentation, with its source
 - `ONE_PAGER.md` — a plain-language explainer of the project for a non-technical reader
