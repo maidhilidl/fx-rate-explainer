@@ -1,6 +1,6 @@
 # One-Pager: FX Rate & Trend Explainer
 
-**What this is (3 sentences):**
+**What this is :**
 This is a small web tool that answers one specific question: how has a currency moved against another over a chosen time window? A user types two currency codes (e.g. USD to INR), and the tool pulls today's real exchange rate and the rate from a chosen number of days ago, then explains the movement in a plain-language sentence rather than a raw number. It's built on live, public, no-cost exchange rate data, no login, no paid API key.
 
 **The specific problem it addresses:**
